@@ -1,0 +1,2 @@
+# control_table
+jquery+bootstrap 控制table中的th在浏览器滚动条滚动时,一直显示在tbody的上方
